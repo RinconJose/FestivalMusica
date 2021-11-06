@@ -1,0 +1,15 @@
+{
+  "name": "festival-musica",
+  "version": "1.0.0",
+  "description": "Proyecto con Gulp, SASS y HTML",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Gulp",
+    "SASS"
+  ],
+  "author": "Jose Rincon",
+  "license": "ISC"
+}
